@@ -84,12 +84,13 @@ span{
     viewport-fit: 100%;
     display: flex;
     gap: 60px;
+    border: 2px solid red;
     
 
 }
 .banner-container{
     width: 48%;
-    height: 600px;
+    height: 650px;
     background-image: url("./images/Group-14.png");
     display: flex;
     align-items: center;
@@ -134,9 +135,8 @@ button{
 }
 
 .banner-img{
-    width: 550px;
-    height: 570px;
-    margin-top: 30px;
+    width: 711px;
+    height: 650px;
     
     
 }
