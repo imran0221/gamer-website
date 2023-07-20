@@ -81,10 +81,9 @@ span{
 
 /* Banner Section */
 .banner-section{
-    viewport-fit: 100%;
+    
     display: flex;
     gap: 60px;
-    border: 2px solid red;
     
 
 }
@@ -135,8 +134,8 @@ button{
 }
 
 .banner-img{
-    width: 711px;
-    height: 650px;
+    width: 550px;
+    height: 570px;
     
     
 }
